@@ -1,7 +1,6 @@
 # System-Analysis-and-Design
 
-
-    Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
       The client during this project was DriverPass.  The client was looking to design a system that helps new drivers study and practice for their state             license driving test. This includes access to updated learning materials and DMV rules and policies, as well as access to driving tutors.
     
     What did you do particularly well?
