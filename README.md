@@ -30,5 +30,6 @@ How do you approach designing software? What techniques or strategies would you 
 
       When designing software, I try to consider how a system interacts with the different types of users
       and how it will interact with any needed functions. In the future, it might be helpful for me to 
-      also consider how outside sources or other systems might interact with the system that is being designed.
+      also consider how outside sources or other systems might interact with the system that is being 
+      designed.
       
